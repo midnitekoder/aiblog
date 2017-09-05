@@ -4,5 +4,5 @@ I have created this blog with the intention to document my learning towards Deep
 
 ## Blog Posts
 ### September, 2017
-[Learning Tensorflow source code](https://midnitekoder.github.com/2017/09/learningTensorflow.md)
+[Learning Tensorflow source code](2017/09/learningTensorflow.md)
 
