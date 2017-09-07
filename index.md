@@ -11,5 +11,7 @@
 
 ### September, 2017
 [Learning GAN](2017/09/learningGan)
+
 [Learning Tensorflow source code](2017/09/learningTensorflow)
+
 [Review of Residual Network papers](2017/09/residualNetworksReview)
