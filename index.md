@@ -15,3 +15,5 @@
 [Learning Tensorflow source code](2017/09/learningTensorflow)
 
 [Review of Residual Network papers](2017/09/residualNetworksReview)
+
+[Object Detection and Tracking for Realtime imaging](2017/09/objectDetectionAndTracking)
