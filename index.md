@@ -18,3 +18,7 @@
 [Review of Residual Network papers](2017/09/residualNetworksReview)
 
 [Object Detection and Tracking for Realtime imaging](2017/09/objectDetectionAndTracking)
+
+### October, 2017
+
+[Some popular Machine Learning Algorithms and related concepts](2017/10/mlAlgo)
