@@ -1,5 +1,5 @@
 ---
-redirect_from: "https://midnitekoder.github.io/"
+redirect_from: "../"
 ---
 # Midnitekoder's AI blog
 ## Introduction
