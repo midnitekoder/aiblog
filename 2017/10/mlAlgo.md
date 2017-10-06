@@ -6,37 +6,37 @@ While learning different papers related to deep learning I often stumble across 
 
 It is topic in itself how Gradient descent and its derivatives work to optimise an objective function. These approaches are mostly first order(SGD) and highly dependent upon the training model and dataset.
 
-	#### Math behind optimization techniques <[video](https://www.youtube.com/watch?v=UIFMLK2nj_w)>
+- #### Math behind optimization techniques <[video](https://www.youtube.com/watch?v=UIFMLK2nj_w)>
 
-	#### Stochastic Gradient Descent
+- #### Stochastic Gradient Descent
 
-	#### RMSProp
+- #### RMSProp
 
-	#### Adam
+- #### Adam
 
-	#### Adagrad
+- #### Adagrad
 
-	#### Nestrov Adam (Nadam)
+- #### Nestrov Adam (Nadam)
 
 ### Backpropagation
 
 ### Classification Techniques
 
-	#### Adaboost algorithms
+- #### Adaboost algorithms
 
-	#### Boltzmann Machines
+- #### Boltzmann Machines
 
-	#### Support Vector Machine <[code](https://gist.github.com/mblondel/586753), [video](https://www.youtube.com/watch?v=g8D5YL6cOSE)>
+- #### Support Vector Machine <[code](https://gist.github.com/mblondel/586753), [video](https://www.youtube.com/watch?v=g8D5YL6cOSE)>
 
-	#### Decision Tree
+- #### Decision Tree
 
-	#### Random Forest
+- #### Random Forest
 
 ### Feature Extraction Techniques in Computer Vision
 
-	#### Sparse Coding
+- #### Sparse Coding
 
-	#### Bag of Visual Words
+- #### Bag of Visual Words
 
-	#### Transfer Learning in Deep Convolution Neural Networks
+- #### Transfer Learning in Deep Convolution Neural Networks
 
